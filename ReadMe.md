@@ -1,6 +1,6 @@
 # Simple login system built using C++
 
-A C++ class implementation of a Login System that provides functionalities such as logging in, resetting account, changing password and deleting an account. The Login class implements various private and public methods to provide these functionalities to the users. and uses local txt file as database.
+back at 2019 i have built A C++ class implementation of a Login System that provides functionalities such as logging in, resetting account, changing password and deleting an account. The Login class implements various private and public methods to provide these functionalities to the users. and uses local txt file as database.
 
 ## Authors
 
